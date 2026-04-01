@@ -6,6 +6,7 @@ All the leetcode problem solved my me was available in it
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0392-is-subsequence](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [0481-magical-string](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0481-magical-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 | [0832-flipping-an-image](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0832-flipping-an-image/) | Easy |
@@ -13,6 +14,7 @@ All the leetcode problem solved my me was available in it
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0392-is-subsequence](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [0481-magical-string](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0481-magical-string/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Greedy
@@ -36,4 +38,8 @@ All the leetcode problem solved my me was available in it
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0832-flipping-an-image/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0392-is-subsequence](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
