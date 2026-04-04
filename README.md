@@ -17,6 +17,7 @@ All the leetcode problem solved my me was available in it
 | ------- | ------- |
 | [0392-is-subsequence](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0392-is-subsequence/) | Easy |
 | [0481-magical-string](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0481-magical-string/) | Medium |
+| [0539-minimum-time-difference](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0539-minimum-time-difference/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0680-valid-palindrome-ii/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -26,6 +27,7 @@ All the leetcode problem solved my me was available in it
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0539-minimum-time-difference](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0539-minimum-time-difference/) | Medium |
 | [0611-valid-triangle-number](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0611-valid-triangle-number/) | Medium |
 | [0832-flipping-an-image](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0832-flipping-an-image/) | Easy |
 | [1089-duplicate-zeros](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/1089-duplicate-zeros/) | Easy |
@@ -52,5 +54,10 @@ All the leetcode problem solved my me was available in it
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0539-minimum-time-difference](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0539-minimum-time-difference/) | Medium |
 | [0611-valid-triangle-number](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0611-valid-triangle-number/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0539-minimum-time-difference](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0539-minimum-time-difference/) | Medium |
 <!---LeetCode Topics End-->
