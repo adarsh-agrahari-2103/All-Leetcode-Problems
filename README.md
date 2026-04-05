@@ -19,6 +19,7 @@ All the leetcode problem solved my me was available in it
 | [0481-magical-string](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0481-magical-string/) | Medium |
 | [0539-minimum-time-difference](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0539-minimum-time-difference/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0692-top-k-frequent-words](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0721-accounts-merge/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -30,6 +31,7 @@ All the leetcode problem solved my me was available in it
 | ------- | ------- |
 | [0539-minimum-time-difference](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0539-minimum-time-difference/) | Medium |
 | [0611-valid-triangle-number](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0611-valid-triangle-number/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0721-accounts-merge/) | Medium |
 | [0832-flipping-an-image](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0832-flipping-an-image/) | Easy |
 | [1089-duplicate-zeros](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/1089-duplicate-zeros/) | Easy |
@@ -58,6 +60,7 @@ All the leetcode problem solved my me was available in it
 | ------- | ------- |
 | [0539-minimum-time-difference](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0539-minimum-time-difference/) | Medium |
 | [0611-valid-triangle-number](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0611-valid-triangle-number/) | Medium |
+| [0692-top-k-frequent-words](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0721-accounts-merge/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -66,6 +69,7 @@ All the leetcode problem solved my me was available in it
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0721-accounts-merge/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -79,4 +83,20 @@ All the leetcode problem solved my me was available in it
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0721-accounts-merge](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0721-accounts-merge/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0692-top-k-frequent-words/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0692-top-k-frequent-words/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0692-top-k-frequent-words/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0692-top-k-frequent-words](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0692-top-k-frequent-words/) | Medium |
 <!---LeetCode Topics End-->
