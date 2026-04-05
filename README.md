@@ -27,6 +27,7 @@ All the leetcode problem solved my me was available in it
 | ------- | ------- |
 | [0611-valid-triangle-number](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0611-valid-triangle-number/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@ All the leetcode problem solved my me was available in it
 | [0721-accounts-merge](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0721-accounts-merge/) | Medium |
 | [0832-flipping-an-image](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0832-flipping-an-image/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 | [1089-duplicate-zeros](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/1089-duplicate-zeros/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -65,10 +67,12 @@ All the leetcode problem solved my me was available in it
 | [0692-top-k-frequent-words](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0692-top-k-frequent-words/) | Medium |
 | [0721-accounts-merge](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0721-accounts-merge/) | Medium |
 | [0905-sort-array-by-parity](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0905-sort-array-by-parity/) | Easy |
+| [0976-largest-perimeter-triangle](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0539-minimum-time-difference](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0539-minimum-time-difference/) | Medium |
+| [0976-largest-perimeter-triangle](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0976-largest-perimeter-triangle/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
