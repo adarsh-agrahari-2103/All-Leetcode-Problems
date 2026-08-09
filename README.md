@@ -110,4 +110,5 @@ All the leetcode problem solved my me was available in it
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [0610-triangle-judgement](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0610-triangle-judgement/) | Easy |
 <!---LeetCode Topics End-->
