@@ -106,4 +106,8 @@ All the leetcode problem solved my me was available in it
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0692-top-k-frequent-words/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 <!---LeetCode Topics End-->
