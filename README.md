@@ -98,6 +98,7 @@ All the leetcode problem solved my me was available in it
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0692-top-k-frequent-words](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0692-top-k-frequent-words/) | Medium |
+| [0703-kth-largest-element-in-a-stream](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,4 +112,24 @@ All the leetcode problem solved my me was available in it
 | ------- | ------- |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
 | [0610-triangle-judgement](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0610-triangle-judgement/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 <!---LeetCode Topics End-->
