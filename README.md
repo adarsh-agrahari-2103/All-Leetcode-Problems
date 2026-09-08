@@ -132,4 +132,12 @@ All the leetcode problem solved my me was available in it
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/adarsh-agrahari-2103/All-Leetcode-Problems/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 <!---LeetCode Topics End-->
